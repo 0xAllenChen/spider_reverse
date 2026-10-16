@@ -1,8 +1,13 @@
-[![ipwo](https://raw.githubusercontent.com/0xAllenChen/img_repository/master/357df7f63b9cc78e537d9cbb6f78bf19.png)](https://www.ipwo.net/?ref=githubchenailun&code=UVAP38UW9)
-> 爬虫总遇 403、IP 秒封？IPWO爬虫住宅代理 9000 万真实住宅 IP，黑名单率低于 3%，模拟真人访问，成功率 99%+
+[![ipwo](https://raw.githubusercontent.com/0xAllenChen/img_repository/master/RapidProxy.png)](https://www.rapidproxy.io/?ref=spsp)
 
-### IPWO爬虫代理资源为采集、跨境与测试项目提供支持(免费试用，流量不过期，爬虫使用保护账号不封号)学习者务必遵循法律！
-[IPWO访问入口](https://www.ipwo.net/?ref=githubchenailun&code=UVAP38UW9)
+[**RapidProxy**](https://www.rapidproxy.io/?ref=spsp) — 专业的全球住宅代理服务商，为爬虫开发、JS 逆向及大规模数据采集提供高速、稳定的代理 IP，支持智能轮换、高并发及粘性会话。
+
+🌍 **70M+ 全球住宅 IP · 99.99% 网络可用性 · 智能 IP 轮换 · 流量永不过期**
+
+🎁 **专属优惠：** 住宅代理低至 **$0.55/GB**，使用优惠码 RAPID10 **立享 9 折优惠**！
+
+👉 **立即免费测试：** https://www.rapidproxy.io/?ref=spsp
+
 # 爬虫逆向
 
 
